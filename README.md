@@ -42,4 +42,10 @@ T
  SEE A WHISKEY ON THE FLOOR.)
  ```
 
+ Or simply... You can do:
+
+ `$ clisp cli.lisp`
+
+ I've seen errors on sbcl's flush.
+
 **For now on, I'll back down my decision to use CLISP, and I can't ensure that it'll work perfectly, don't beat up me hahaha :)**
